@@ -386,3 +386,7 @@ export GITHUB_MCP_TOOL_ADD_ISSUE_COMMENT_DESCRIPTION="an alternative description
     - `repo`: Repository name (string, required)
     - `pr_number`: Pull request number (string, required)
     - `path`: File or directory path (string, optional)
+
+## License
+
+This project is licensed under the terms of the MIT open source license. Please refer to [MIT](./LICENSE) for the full terms.
